@@ -68,12 +68,20 @@ header {
   padding: 90px 90px;
 }
 
-.main-heading {
+.main-body {
   width: 920px;
+}
+
+.main-heading {
   font-size: 32px;
   color: #000000;
-  margin: 8px;
-  border-bottom: 3px solid #EC715F;
+  margin-bottom: 8px;
+}
+
+.main-border {
+  size: 3;
+  width: 70px;
+  border-color: #EC715F;
   display: inline-block;
 }
 
