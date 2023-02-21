@@ -149,7 +149,7 @@ header {
 }
 
 .main-body_2 {
-  width: 920px;
+  width: 980px;
   margin: 0 auto;
 }
 
@@ -157,6 +157,10 @@ header {
   font-size: 32px;
   color: #000000;
   margin-bottom: 8px;
+}
+
+.social {
+  font-size: 60px;
 }
 
 footer {
