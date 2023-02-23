@@ -163,6 +163,11 @@ header {
   font-size: 60px;
 }
 
+.social-heading_2 {
+  font-size: 20px;
+  color: #000000;
+}
+
 footer {
   text-align: center;
   background-color: #FF4500;
